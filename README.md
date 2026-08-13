@@ -15,6 +15,8 @@ Put your key in a `.env` here — every notebook calls `load_dotenv()`, so `Anth
 ANTHROPIC_API_KEY=your-key-here
 ```
 
+Note that in order to get an API key to work, usage credits are needed.
+
 The model is set per notebook, so they don't all use the same one — change the `model` variable
 at the top to switch.
 
