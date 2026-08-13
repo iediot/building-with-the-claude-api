@@ -1,0 +1,103 @@
+[
+  {
+    "output": "# One-Day Vegan Marathon Training Meal Plan\n\n## Athlete Profile & Daily Targets\n- **Daily Calories:** 2,600-2,800 kcal\n- **Carbohydrates:** 390-420g (60% - primary fuel for endurance)\n- **Protein:** 95-110g (1.4-1.6g per kg bodyweight)\n- **Fats:** 70-80g (25-30% for hormone production & sustained energy)\n\n*Based on 68kg athlete, 175cm, marathon training with high-mileage runs*\n\n---\n\n## BREAKFAST (7:00 AM)\n**Overnight Oats Energy Bowl**\n- Rolled oats: 80g\n- Soy milk (fortified): 250ml\n- Banana (sliced): 120g\n- Ground flaxseeds: 15g\n- Peanut butter: 25g\n- Maple syrup: 15g\n- Cinnamon: 2g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 580 |\n| Carbs | 82g |\n| Protein | 18g |\n| Fat | 18g |\n\n---\n\n## MID-MORNING SNACK (10:00 AM)\n**Power Smoothie**\n- Vegan protein powder (pea): 30g\n- Oat milk: 300ml\n- Frozen mixed berries: 120g\n- Medjool dates: 35g\n- Chia seeds: 12g\n- Spinach (raw): 30g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 420 |\n| Carbs | 58g |\n| Protein | 28g |\n| Fat | 8g |\n\n---\n\n## LUNCH (12:30 PM)\n**Sweet Potato & Black Bean Bowl**\n- Cooked quinoa: 150g\n- Roasted sweet potato cubes: 200g\n- Black beans (cooked): 160g\n- Avocado (sliced): 60g\n- Cherry tomatoes: 80g\n- Red bell pepper: 70g\n- Lime-tahini dressing (tahini 20g + lime): 30g\n- Olive oil: 8ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 720 |\n| Carbs | 98g |\n| Protein | 26g |\n| Fat | 22g |\n\n---\n\n## PRE-RUN SNACK (3:30 PM)\n**Quick Carb Boost**\n- Whole wheat pita: 60g\n- Almond butter: 20g\n- Banana: 100g\n- Agave nectar: 10g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 340 |\n| Carbs | 52g |\n| Protein | 10g |\n| Fat | 10g |\n\n---\n\n## DINNER (6:30 PM)\n**Lentil Pasta & Vegetable Medley**\n- Red lentil pasta (cooked): 180g\n- Firm tofu (pan-fried): 150g\n- Broccoli florets: 120g\n- Zucchini (sliced): 100g\n- Mushrooms: 80g\n- Marinara sauce (low-sodium): 120g\n- Garlic: 8g\n- Nutritional yeast: 10g\n- Coconut oil: 12ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 640 |\n| Carbs | 76g |\n| Protein | 38g |\n| Fat | 18g |\n\n---\n\n## EVENING RECOVERY SNACK (9:00 PM)\n**Protein Recovery Mix**\n- Unsweetened soy milk: 250ml\n- Vegan protein powder (brown rice): 25g\n- Walnuts (chopped): 20g\n- Frozen cherries: 80g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 300 |",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "175",
+        "weight": "68",
+        "goal": "Marathon training - need sustained energy for long runs",
+        "restrictions": "Vegan"
+      },
+      "solution_criteria": [
+        "Provides a complete 1-day meal plan with breakfast, lunch, dinner, and snacks",
+        "All meals are vegan (no animal products)",
+        "Emphasizes high carbohydrate foods appropriate for endurance training"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+      "scenario": "Testing with a vegan endurance athlete (marathon runner) requiring high carbohydrate intake"
+    },
+    "score": 9,
+    "reasoning": "The solution meets all three mandatory requirements: it includes daily caloric totals, macronutrient breakdowns (both daily targets and per-meal), and meals with exact foods, portions, and timing. It also satisfies all secondary criteria: complete 1-day plan with breakfast, lunch, dinner and snacks; entirely vegan; and high-carb emphasis appropriate for endurance training. The incomplete macro table for the evening snack is a minor formatting issue that doesn't violate mandatory requirements since the information could be calculated from the ingredients. The verbosity is a stylistic concern rather than a failure to meet criteria."
+  },
+  {
+    "output": "# One-Day Powerlifter Cutting Meal Plan\n**Dairy-Free, High Protein**\n\n---\n\n## Daily Nutritional Target\n- **Calories:** 2,200 kcal\n- **Protein:** 185g (34% of intake)\n- **Carbohydrates:** 180g (33% of intake)\n- **Fat:** 80g (33% of intake)\n\n*Based on 93kg powerlifter in cutting phase*\n\n---\n\n## BREAKFAST (7:30 AM)\n**Protein-Packed Scramble**\n- Whole eggs: 3 large (150g)\n- Egg whites: 150g\n- Spinach: 60g\n- Tomatoes: 80g\n- Olive oil: 8ml\n- Oats (dry): 50g cooked in water\n- Banana: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 520 |\n| Protein | 42g |\n| Carbs | 48g |\n| Fat | 18g |\n\n---\n\n## MID-MORNING SNACK (10:30 AM)\n**Quick Protein Boost**\n- Chicken breast (grilled): 120g\n- Rice cakes: 20g (2 cakes)\n- Apple: 150g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 300 |\n| Protein | 38g |\n| Carbs | 32g |\n| Fat | 3g |\n\n---\n\n## LUNCH (1:00 PM)\n**Power Bowl**\n- Lean ground beef (93% lean): 150g\n- White rice (cooked): 120g\n- Broccoli (steamed): 150g\n- Carrots: 80g\n- Olive oil: 10ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 550 |\n| Protein | 45g |\n| Carbs | 52g |\n| Fat | 16g |\n\n---\n\n## PRE-WORKOUT (3:30 PM)\n**Energy Fuel**\n- Turkey breast (deli): 100g\n- Sweet potato (baked): 120g\n- Olive oil: 5ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 270 |\n| Protein | 28g |\n| Carbs | 26g |\n| Fat | 5g |\n\n---\n\n## POST-WORKOUT DINNER (7:00 PM)\n**Recovery Meal**\n- Salmon fillet: 150g\n- Jasmine rice (cooked): 100g\n- Green beans: 120g\n- Asparagus: 100g\n- Olive oil: 8ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 480 |\n| Protein | 42g |\n| Carbs | 38g |\n| Fat | 16g |\n\n---\n\n## EVENING SNACK (9:00 PM)\n**Casein Alternative**\n- Tuna (canned in water): 120g\n- Avocado: 60g\n- Cucumber: 100g\n- Rice cakes: 15g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 240 |\n| Protein | 32g |\n| Carbs | 12g |\n| Fat | 8g |\n\n---\n\n## DAILY TOTALS\n\n| Nutrient | Target | Actual |\n|----------|--------|--------|\n| **Calories** | 2,200 | 2,360 |\n| **Protein** | 180g+ | 227g |\n| **Carbs** | ~180g | 208g |\n| **Fat** | ~80g | 66g |\n\n---\n\n## Key Notes for Cutting Success\n\n**Hydration:** Drink 3-4L water daily, especially important during cuts.\n\n**Meal Timing:** Pre-workout carbs 60-90 mins before training; post-workout protein within 2 hours.\n\n**Protein Priority:** Every meal contains 28-45g protein",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "93",
+        "goal": "Powerlifter in cutting phase, target 2200 calories per day, maintain strength while losing 0.5kg per week",
+        "restrictions": "No dairy products, must consume at least 180g protein daily"
+      },
+      "solution_criteria": [
+        "Total calories approximately 2200",
+        "Protein content at least 180g",
+        "No dairy products included",
+        "Meals structured across one day"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+      "scenario": "Testing with a strength athlete (powerlifter) in a cutting phase with specific calorie restrictions"
+    },
+    "score": 7,
+    "reasoning": "The solution meets all mandatory requirements by including daily caloric totals, macronutrient breakdowns, and detailed meals with exact foods, portions, and timing. It successfully avoids dairy products and exceeds the 180g protein minimum. However, the calorie count is 7.3% over target (2,360 vs 2,200), which is a significant deviation for someone in a cutting phase with specific weight loss goals. The fat intake is also 17.5% below the stated target. Despite these discrepancies, the core requirements are satisfied and the meal plan is comprehensive and well-formatted."
+  },
+  {
+    "output": "# One-Day Swimmer Meal Plan\n**No Shellfish | Dual Training Sessions**\n\n---\n\n## Athlete Profile & Daily Targets\n- **Calories:** 2,600\u20132,800 kcal (maintain energy + recovery)\n- **Protein:** 122\u2013136g (1.8\u20132g per kg)\n- **Carbs:** 340\u2013374g (5\u20135.5g per kg)\n- **Fat:** 72\u201387g (1.05\u20131.3g per kg)\n\n*Based on 68kg swimmer with AM/PM training*\n\n---\n\n## PRE-MORNING SWIM (6:15 AM)\n*Light, quick-digesting fuel 30 min before pool*\n\n- White toast: 40g\n- Honey: 15g\n- Banana: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 250 |\n| Carbs | 60g |\n| Protein | 4g |\n| Fat | 1g |\n\n---\n\n## BREAKFAST (8:30 AM)\n*Post-swim recovery within 45 minutes*\n\n- Scrambled eggs: 3 whole (150g)\n- Whole grain toast: 60g\n- Avocado: 50g\n- Orange juice: 200ml\n- Strawberries: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 580 |\n| Carbs | 62g |\n| Protein | 26g |\n| Fat | 22g |\n\n---\n\n## MID-MORNING SNACK (11:00 AM)\n*Sustained energy between sessions*\n\n- Greek yogurt (2%): 200g\n- Granola: 40g\n- Blueberries: 80g\n- Honey drizzle: 10g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 380 |\n| Carbs | 52g |\n| Protein | 20g |\n| Fat | 9g |\n\n---\n\n## LUNCH (1:30 PM)\n*Balanced meal with lean protein*\n\n- Grilled chicken breast: 150g\n- Brown rice (cooked): 180g\n- Steamed broccoli: 120g\n- Carrots: 80g\n- Olive oil: 10ml\n- Soy sauce: 10ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 620 |\n| Carbs | 72g |\n| Protein | 48g |\n| Fat | 14g |\n\n---\n\n## PRE-AFTERNOON SWIM (3:45 PM)\n*Quick carbs 45 min before second session*\n\n- Rice cakes: 2 (40g)\n- Peanut butter: 20g\n- Apple slices: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 290 |\n| Carbs | 38g |\n| Protein | 8g |\n| Fat | 10g |\n\n---\n\n## DINNER (6:45 PM)\n*Post-training recovery meal*\n\n- Baked salmon fillet: 180g\n- Sweet potato (baked): 200g\n- Green beans: 120g\n- Spinach salad: 60g\n- Cherry tomatoes: 80g\n- Balsamic vinaigrette: 15ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 580 |\n| Carbs | 58g |\n| Protein | 42g |\n| Fat | 16g |\n\n---\n\n## EVENING SNACK (9:00 PM)\n*Light recovery support before bed*\n\n- Cottage cheese (1%): 150g\n- Whole grain crackers: 30g\n- Cucumber slices: 80g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 220 |\n| Carbs | 24g |\n| Protein | 20g |\n| Fat | 5g |\n\n---\n\n## DAILY TOTALS\n\n| Nutrient | Target |",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "175",
+        "weight": "68",
+        "goal": "Maintain energy levels for morning and afternoon swim training sessions while supporting muscle recovery",
+        "restrictions": "No shellfish"
+      },
+      "solution_criteria": [
+        "Includes breakfast, lunch, dinner, and at least 2 snacks",
+        "Total daily calories appropriate for high-intensity teenage swimmer (3500-4500 kcal range)",
+        "Includes timing recommendations around training sessions"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+      "scenario": "Testing with a teenage competitive swimmer with high energy demands and multiple training sessions"
+    },
+    "score": 6,
+    "reasoning": "The solution meets all mandatory requirements by including daily caloric information (2,600-2,800 kcal target stated), macronutrient breakdowns for all meals, and exact foods with portions and timing. However, it has a critical deficiency against the secondary criteria: the total calories (approximately 2,920 kcal) fall well short of the 3,500-4,500 kcal range specified for high-intensity teenage swimmers. While the meal structure, timing, and detail are excellent, this significant caloric shortfall for the athlete's needs is a major weakness that prevents a higher score."
+  },
+  {
+    "output": "# One-Day Gluten-Free, Lactose-Free Meal Plan for Endurance Athletes\n\n## Athlete Profile & Daily Targets\n- **Daily Calories:** 2,600 kcal (endurance maintenance for 68kg athlete)\n- **Protein:** 122-136g (1.8-2g/kg)\n- **Carbohydrates:** 340-375g (5-5.5g/kg)\n- **Fats:** 75-85g (1.1-1.25g/kg)\n\n---\n\n## BREAKFAST (7:00 AM)\n**Rice Porridge Power Bowl**\n- White rice (cooked): 150g\n- Coconut milk (canned): 200ml\n- Banana: 120g\n- Sunflower seeds: 20g\n- Honey: 15g\n- Cinnamon: 2g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 580 |\n| Protein | 12g |\n| Carbs | 82g |\n| Fat | 22g |\n\n---\n\n## MID-MORNING SNACK (10:00 AM)\n**Energy Smoothie**\n- Lactose-free protein powder (whey isolate/pea): 30g\n- Oat milk (gluten-free certified): 300ml\n- Strawberries (frozen): 120g\n- Dates: 40g\n- Chia seeds: 10g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 380 |\n| Protein | 28g |\n| Carbs | 52g |\n| Fat | 6g |\n\n---\n\n## LUNCH (12:30 PM)\n**Quinoa Chicken Bowl**\n- Cooked quinoa: 180g\n- Grilled chicken breast: 150g\n- Roasted sweet potato: 120g\n- Steamed green beans: 100g\n- Cherry tomatoes: 80g\n- Olive oil: 12ml\n- Lemon juice: 15ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 660 |\n| Protein | 48g |\n| Carbs | 68g |\n| Fat | 16g |\n\n---\n\n## PRE-WORKOUT SNACK (3:00 PM)\n**Quick Fuel**\n- Rice cakes (gluten-free): 3 pieces (45g)\n- Almond butter: 25g\n- Banana: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 340 |\n| Protein | 10g |\n| Carbs | 42g |\n| Fat | 14g |\n\n---\n\n## DINNER (6:30 PM)\n**Salmon & Sweet Potato Plate**\n- Grilled salmon fillet: 180g\n- Baked sweet potato: 200g\n- Roasted Brussels sprouts: 120g\n- Asparagus: 100g\n- Avocado: 60g\n- Coconut oil: 10ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 640 |\n| Protein | 42g |\n| Carbs | 58g |\n| Fat | 22g |\n\n---\n\n## EVENING RECOVERY (9:00 PM)\n**Bedtime Protein Blend**\n- Lactose-free Greek yogurt alternative (coconut): 200g\n- Blueberries: 80g\n- Hemp seeds: 15g\n- Honey: 10g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 280 |\n| Protein | 18g |\n| Carbs | 32g |\n| Fat | 8g |\n\n---\n\n## DAILY TOTALS\n\n| Nutrient | Target | Actual | Status |\n|----------|--------|--------|--------|\n| **Calories** | 2,600 | 2,880 | \u2713 |\n| **Protein** | 122-136g | 158g | \u2713 |\n| **Car",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "68",
+        "goal": "maintain endurance performance during training season",
+        "restrictions": "lactose-intolerant, gluten-free"
+      },
+      "solution_criteria": [
+        "Meal plan is for 1 day only",
+        "All meals are lactose-free and gluten-free",
+        "Caloric and macronutrient content supports cycling endurance performance"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+      "scenario": "Testing with a lactose-intolerant professional cyclist who needs gluten-free options"
+    },
+    "score": 8,
+    "reasoning": "The solution meets all mandatory requirements: it provides a 1-day meal plan, includes daily caloric total (2,880), macronutrient breakdown for each meal and daily totals, and specifies exact foods, portions, and timing. All meals are properly lactose-free and gluten-free. The caloric and macronutrient content is appropriate for endurance performance, though slightly higher than the stated targets. The main issues are the caloric overage and the incomplete presentation (truncated table), but these are relatively minor given that the core requirements are satisfied and the nutritional targets still support the stated goal of maintaining endurance performance."
+  },
+  {
+    "output": "# Budget Athlete Meal Plan - Boxing Training\n**Daily Target: 2,600 kcal | Protein: 130g | Carbs: 325g | Fat: 72g**\n\n---\n\n## BREAKFAST (7:30 AM)\n**Scrambled Eggs & Oats**\n- Eggs (whole): 180g (3 large)\n- Rolled oats: 60g\n- Water: 200ml\n- Banana: 120g\n- Cooking oil: 5ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 565 |\n| Protein | 28g |\n| Carbs | 68g |\n| Fat | 18g |\n\n**Cost: ~$1.40**\n\n---\n\n## MID-MORNING SNACK (10:30 AM)\n**Peanut Butter Toast**\n- White bread: 80g (4 slices)\n- Peanut butter: 32g (2 tbsp)\n- Milk (whole): 250ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 540 |\n| Protein | 24g |\n| Carbs | 58g |\n| Fat | 20g |\n\n**Cost: ~$1.20**\n\n---\n\n## LUNCH (1:00 PM)\n**Rice & Chicken Bowl**\n- Chicken thighs (boneless, cooked): 150g\n- White rice (cooked): 200g\n- Frozen mixed vegetables: 120g\n- Cooking oil: 10ml\n- Soy sauce: 10ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 640 |\n| Protein | 38g |\n| Carbs | 72g |\n| Fat | 18g |\n\n**Cost: ~$2.60**\n\n---\n\n## PRE-TRAINING SNACK (3:30 PM - 90 min before boxing)\n**Quick Energy Boost**\n- White bread: 60g (3 slices)\n- Jam/jelly: 30g\n- Banana: 100g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 340 |\n| Protein | 7g |\n| Carbs | 78g |\n| Fat | 2g |\n\n**Cost: ~$0.70**\n\n---\n\n## POST-TRAINING (6:00 PM - within 30 min after training)\n**Recovery Shake**\n- Milk (whole): 400ml\n- Instant oats: 40g\n- Sugar: 15g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 420 |\n| Protein | 18g |\n| Carbs | 60g |\n| Fat | 11g |\n\n**Cost: ~$1.00**\n\n---\n\n## DINNER (7:30 PM)\n**Ground Beef Pasta**\n- Pasta (dry weight): 100g\n- Ground beef (80/20, cooked): 120g\n- Canned tomato sauce: 150g\n- Onion: 50g\n- Garlic: 5g\n- Cooking oil: 5ml\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 680 |\n| Protein | 38g |\n| Carbs | 82g |\n| Fat | 20g |\n\n**Cost: ~$2.50**\n\n---\n\n## EVENING SNACK (9:00 PM - Optional if needed)\n**Cottage Cheese Bowl**\n- Cottage cheese (4% fat): 150g\n- Crackers: 30g\n\n| Macros | Amount |\n|--------|--------|\n| Calories | 240 |\n| Protein | 18g |\n| Carbs | 22g |\n| Fat | 8g |\n\n**Cost: ~$1.10**\n\n---\n\n## DAILY TOTALS\n\n| Nutrient | Target | Actual | Status |\n|----------|--------|--------|--------|\n| **Calories** | 2,600 | 2,585 | \u2713",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178",
+        "weight": "72",
+        "goal": "Maintain weight while improving stamina and energy for boxing training",
+        "restrictions": "Budget-conscious, needs simple meals under $8 per day, limited cooking equipment (microwave, stovetop only), no expensive supplements or specialty ingredients"
+      },
+      "solution_criteria": [
+        "Provides exactly 1 day of meals",
+        "Includes simple, affordable ingredients suitable for amateur boxer",
+        "Meal plan is compact and concise"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+      "scenario": "Testing with a budget-conscious amateur boxer requiring simple, affordable meal options"
+    },
+    "score": 7,
+    "reasoning": "The solution successfully meets all three mandatory requirements: it provides exactly 1 day of meals, includes daily caloric totals and macronutrient breakdowns, and specifies exact foods, portions, and timing. The meal plan is well-designed for a boxer with appropriate energy distribution and simple, affordable ingredients. However, it has one significant flaw: the total cost of ~$10.50 substantially exceeds the $8 per day budget constraint specified in the task inputs. While the format is generally compact and concise, the inclusion of 7 eating occasions (including an optional evening snack) could be more streamlined. Despite the budget overage being a notable issue, the solution demonstrates strong understanding of athletic nutrition needs and practical meal planning."
+  }
+]

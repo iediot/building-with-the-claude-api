@@ -1,11 +1,78 @@
 [
   {
-    "task": "Write a Python function that extracts the AWS region from an S3 bucket ARN string (e.g., 'arn:aws:s3:::my-bucket'). The function should return the region if present, or 'us-east-1' as default if the ARN doesn't contain region information."
+    "prompt_inputs": {
+      "height": "175",
+      "weight": "68",
+      "goal": "Marathon training - need sustained energy for long runs",
+      "restrictions": "Vegan"
+    },
+    "solution_criteria": [
+      "Provides a complete 1-day meal plan with breakfast, lunch, dinner, and snacks",
+      "All meals are vegan (no animal products)",
+      "Emphasizes high carbohydrate foods appropriate for endurance training"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+    "scenario": "Testing with a vegan endurance athlete (marathon runner) requiring high carbohydrate intake"
   },
   {
-    "task": "Create a JSON object that represents an AWS IAM policy allowing read-only access to a specific S3 bucket named 'my-data-bucket'. The policy should include the appropriate Action, Resource, and Effect fields."
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "93",
+      "goal": "Powerlifter in cutting phase, target 2200 calories per day, maintain strength while losing 0.5kg per week",
+      "restrictions": "No dairy products, must consume at least 180g protein daily"
+    },
+    "solution_criteria": [
+      "Total calories approximately 2200",
+      "Protein content at least 180g",
+      "No dairy products included",
+      "Meals structured across one day"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+    "scenario": "Testing with a strength athlete (powerlifter) in a cutting phase with specific calorie restrictions"
   },
   {
-    "task": "Write a regular expression that validates AWS access key IDs. AWS access keys start with 'AKIA' followed by 20 alphanumeric characters (uppercase letters and digits only)."
+    "prompt_inputs": {
+      "height": "175",
+      "weight": "68",
+      "goal": "Maintain energy levels for morning and afternoon swim training sessions while supporting muscle recovery",
+      "restrictions": "No shellfish"
+    },
+    "solution_criteria": [
+      "Includes breakfast, lunch, dinner, and at least 2 snacks",
+      "Total daily calories appropriate for high-intensity teenage swimmer (3500-4500 kcal range)",
+      "Includes timing recommendations around training sessions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+    "scenario": "Testing with a teenage competitive swimmer with high energy demands and multiple training sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "68",
+      "goal": "maintain endurance performance during training season",
+      "restrictions": "lactose-intolerant, gluten-free"
+    },
+    "solution_criteria": [
+      "Meal plan is for 1 day only",
+      "All meals are lactose-free and gluten-free",
+      "Caloric and macronutrient content supports cycling endurance performance"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+    "scenario": "Testing with a lactose-intolerant professional cyclist who needs gluten-free options"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Maintain weight while improving stamina and energy for boxing training",
+      "restrictions": "Budget-conscious, needs simple meals under $8 per day, limited cooking equipment (microwave, stovetop only), no expensive supplements or specialty ingredients"
+    },
+    "solution_criteria": [
+      "Provides exactly 1 day of meals",
+      "Includes simple, affordable ingredients suitable for amateur boxer",
+      "Meal plan is compact and concise"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete.",
+    "scenario": "Testing with a budget-conscious amateur boxer requiring simple, affordable meal options"
   }
 ]
