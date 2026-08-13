@@ -1,7 +1,7 @@
 # Building with the Claude API
 
 Notebooks from [Anthropic Academy's course of the same name](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
-— 11 modules, ~84 lessons, one notebook per concept.
+— 11 modules, ~84 lessons.
 
 ## Setup
 
